@@ -145,6 +145,25 @@ This analysis transformed raw transactional data into actionable business insigh
 
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
-Data Analysis Project using Python, NumPy, Pandas, Matplotlib, and Seaborn.
+### Fothe Ahmed
+
+Aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), SQL querying, and data visualization.
+
+### Technical Skills
+
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### GitHub
+
+GitHub Profile: https://github.com/ahmedFothe
+
+---
+
+⭐ If you found this project interesting, feel free to explore my GitHub profile for more data analysis projects.
